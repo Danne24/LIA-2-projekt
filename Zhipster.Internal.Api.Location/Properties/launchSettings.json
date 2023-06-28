@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Zhipster.Internal.Api.Location": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63829;http://localhost:63830"
+    }
+  }
+}
